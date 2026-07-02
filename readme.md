@@ -56,7 +56,7 @@ e88fc03c1ebd1f9f9421d2e02ffae9b0b836c8e5b087f7d291ef64ca7840ad74  MicrosoftEdge_
 |--------------|---------|------|---------|----------|
 | **x86** | `150.0.4078.46` | 165.17 MB | `b9e1ed314b73c06d...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f7d586aa-5c36-4f50-be7c-c39b3c155162?P1=1783545678&P2=404&P3=2&P4=fx9NQCxIzGz0a7j%2bzAYd9RPO7CnLfeEsBmnU5bvo%2bQQnNf%2bbH6fvfyVQ1JwCPldZAKiQfH5%2bfLy3UDsUmgRhyw%3d%3d) |
 | **x64** | `150.0.4078.46` | 188.42 MB | `2f43e623b52b6e53...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1f35a611-9f20-4365-bf18-10c6eecc4065?P1=1783545678&P2=404&P3=2&P4=aFQtk%2bJjJ964ngZoA4a7bb6Kyvxy8cjcHcoDLrYpRyT3%2bfmFC9HfUioVLXDjE7Q5QGlxdikjuUIVqkt5%2bJ%2bNog%3d%3d) |
-| **ARM64** | `150.0.4078.46` | 192.51 MB | `07cf0f7339654524...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/26349d5c-64d8-46bb-baff-03f3f9d07eef?P1=1783545678&P2=404&P3=2&P4=lh7bwBRmqb2LwBGo19Ysy4PQGQIquAbGILBnBsWv%2f6his2LD4Zk2xF4%2bmieLoEerXrhUlImCtfkDx5xjnrHGvQ%3d%3d) |
+| **ARM64** | `150.0.4078.48` | 192.48 MB | `55ce15d796e985a4...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/37c111c7-07b0-4905-9502-f2edfc2212d2?P1=1783624479&P2=404&P3=2&P4=M0%2bovQZgLL6EjVweMv71IaF3cjjuKAglNpZlVZzb3RM%2f%2fTFRpWn2jGzfORKODWJkZU3JNKD3zXZnw1qPBYVTOQ%3d%3d) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
@@ -64,7 +64,7 @@ e88fc03c1ebd1f9f9421d2e02ffae9b0b836c8e5b087f7d291ef64ca7840ad74  MicrosoftEdge_
 ```
 b9e1ed314b73c06dd79aee1155884c5260d446338eb9f51cb81ecd798511df7c  MicrosoftEdge_X86_150.0.4078.46.exe
 2f43e623b52b6e5342f6b063ad6aa3baa009dd7644d120d3ab6116e404d12654  MicrosoftEdge_X64_150.0.4078.46.exe
-07cf0f73396545242e58b2077810edeeadc824e05944834a2682871407cca790  MicrosoftEdge_ARM64_150.0.4078.46.exe
+55ce15d796e985a49fff4fd3677be838a24f5279ed861eb8774076379b504647  MicrosoftEdge_ARM64_150.0.4078.48.exe
 ```
 
 </details>
