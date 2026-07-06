@@ -54,8 +54,8 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `150.0.4078.48` | 165.09 MB | `94279a0ed4bd9d00...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/66c2bf0f-05f7-4ed3-bde9-ec7a923be762?P1=1783630660&P2=404&P3=2&P4=A3kEQqVf5KVrb%2fLHVBtmpgV4YKLCr8Ige3e25psu%2bzUO%2fOoK6NF6lyf4LX0g9K%2bPNwICi4LBfUB%2fPBgFY3dZGw%3d%3d) |
-| **x64** | `150.0.4078.48` | 188.57 MB | `75addc2054510bf2...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/83ddce07-f9a7-40fc-ba26-1d7c1cbb652c?P1=1783630661&P2=404&P3=2&P4=LXocYl7MMlRQvmoHyGn3RlhES2MDnhai0AEhabkEIEsMjpukL4caiuzeOuWDIrFKF69ZJLCIISSNexXF7MJifA%3d%3d) |
+| **x86** | `150.0.4078.48` | 165.09 MB | `94279a0ed4bd9d00...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/66c2bf0f-05f7-4ed3-bde9-ec7a923be762?P1=1783977808&P2=404&P3=2&P4=Siru2aCo42oHK7If4VPWrPfocJ3FsEt90hm2iK50NtxW15%2bCP7TzEytQZrhMWBVotCQX8ss70AscalsjYBWydQ%3d%3d) |
+| **x64** | `150.0.4078.48` | 188.57 MB | `75addc2054510bf2...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/83ddce07-f9a7-40fc-ba26-1d7c1cbb652c?P1=1783977809&P2=404&P3=2&P4=ULv02uV%2f2LAVWxTp8OE5sAsZLgvKjx67dbCpQIJoyni6NY%2b8Gk8ni0BsnEybhideV7Roc3KuqjsC%2fg45ZvZFwg%3d%3d) |
 | **ARM64** | `150.0.4078.48` | 192.48 MB | `55ce15d796e985a4...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/37c111c7-07b0-4905-9502-f2edfc2212d2?P1=1783971994&P2=404&P3=2&P4=AYFYR8i01gCub4CEk8I2Dtfp47VJtAxxiILNCEq0IZPdMVVUfro3NnKR%2b6aAJuCXdbpE36X%2fiFat4sSJJg4UoA%3d%3d) |
 
 <details>
@@ -93,7 +93,7 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
 | **x86** | `152.0.4139.0` | 170.35 MB | `8cb2710cf48b4311...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/14bdf03b-2382-42bb-8f75-52805496b993?P1=1783952506&P2=404&P3=2&P4=a67WlcJX3GRtjsiAMER3o7QfzRHiUOv8wNF9qlHQeFac8HtUke%2bbjQ%2bbQXXdbgK8ASXkjqiNsJy34wB1auVFwA%3d%3d) |
-| **x64** | `152.0.4139.0` | 247.06 MB | `53f5d7e2060e57b3...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/64b7ba83-f578-4a7e-a8a7-ff579f883407?P1=1783952507&P2=404&P3=2&P4=Fb8iS%2bJqEu3Ot6FSTrkUUpFnBJazzvRM9i051cdynVPdJzMdPjx0F%2bfornRtWm1GsoSeKXZI%2bwIZr%2bDpgHwWQw%3d%3d) |
+| **x64** | `152.0.4140.0` | 246.99 MB | `e093ccf11615179f...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/31bf706a-5da9-48d9-99a0-cefbac9ae7d4?P1=1783977813&P2=404&P3=2&P4=nRkvugkezF4Xpa3OwMJIEoqKckMTjs8TiYi3h0y6LfaFQ0i1GMC3DjaBIA82JdgDcOboqpPpV8AIsDAe3kdVfw%3d%3d) |
 | **ARM64** | `152.0.4139.0` | 251.81 MB | `7ae1b63074379037...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6785395d-138c-4f84-bd38-c86d77a7ca08?P1=1783952507&P2=404&P3=2&P4=W7suTQBjegR68Azwb%2feGN1JuPg6wLl%2bWmZiu8uqFT8IgswI2FmV88zkdNa%2bRZzUZDAzl0qzfxRNDMXWUKSvTHw%3d%3d) |
 
 <details>
@@ -101,7 +101,7 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 
 ```
 8cb2710cf48b431151803858930c59f4d46dd3c0d0139548cb449418f6e4e033  MicrosoftEdge_X86_152.0.4139.0.exe
-53f5d7e2060e57b35e83bf29bf0e70d3fd79479a247f4db659e8afa3d270e3a7  MicrosoftEdge_X64_152.0.4139.0.exe
+e093ccf11615179fdb79a819bdef364b16418e82443c435b472fecde45bba45c  MicrosoftEdge_X64_152.0.4140.0.exe
 7ae1b63074379037f2821de4ff2a46f5365ffad455964a8d1b000e2075f21198  MicrosoftEdge_ARM64_152.0.4139.0.exe
 ```
 
