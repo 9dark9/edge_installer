@@ -73,7 +73,7 @@
     },
     "msedge-dev-win-x86": {
         "file_name": "MicrosoftEdge_X86_152.0.4148.0.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4dc9de8f-6104-4768-a1b2-3d99c073008e?P1=1784667191&P2=404&P3=2&P4=dqvB2jmyuPrKwTXE7Uv4ejTKp0AC0CMLtW9ZWaNeB1nb3W56mbvfVcPDJEyz9IGfKyhq8Ghou7adeTb7CWwNUA%3d%3d",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4dc9de8f-6104-4768-a1b2-3d99c073008e?P1=1785015798&P2=404&P3=2&P4=Fzce5hBZkKk%2bhHZ9NUB7BhRvpzHTG8syEFIKxvQUyumHZttAxCpC7kcnKlzuqwAnX8N2ALZLEHdFKxbvYNS0dQ%3d%3d",
         "size_in_bytes": 179091280,
         "Sha1": "rz8Lt0r5yiYFVcHR1QFWdE2gALk=",
         "Sha256": "2d898d3dcd5fc24c775accdfdd31c349b5e4072cb9db1f147f4ce2d7bdf1914f",
@@ -81,7 +81,7 @@
     },
     "msedge-dev-win-x64": {
         "file_name": "MicrosoftEdge_X64_152.0.4148.0.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/19294665-ebfd-4cbe-b2ce-c75843eb22d7?P1=1784667192&P2=404&P3=2&P4=U5mXX1HqoGA%2fh8KdlpkszYdPgYumq8FohNHN%2bwt5qg5NPajxLuxaJIyYiZMJUGnxmb%2f7HuPaz0LCpZDiGEOkOQ%3d%3d",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/19294665-ebfd-4cbe-b2ce-c75843eb22d7?P1=1785015799&P2=404&P3=2&P4=jfxLQUujDXaJFG%2bbjFado166h8kVpeoiDaebU%2bPfLsfCOVbLiijTzFHUIUDsvIj%2fcxPPYPLPqVyaD7BSy6fvQQ%3d%3d",
         "size_in_bytes": 259203920,
         "Sha1": "QxDJjtzyVSRvfF5jBo28W0xvuks=",
         "Sha256": "0e10719226fc175c124000f67e2d4910c6a276f0b2900ce136ef5e1ad51ecc5a",
@@ -89,7 +89,7 @@
     },
     "msedge-dev-win-ARM64": {
         "file_name": "MicrosoftEdge_ARM64_152.0.4148.0.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a395dbc2-a334-4e13-b5e5-070ee864942a?P1=1784667193&P2=404&P3=2&P4=NGKPHbeOP%2bsEcsrxee1MleB0sWsNGbmcUr7OI2S1JgxsA5cKaAAYmTa1HjCvahxwpOoWVt3ZVUZPhKWlisdECQ%3d%3d",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a395dbc2-a334-4e13-b5e5-070ee864942a?P1=1785015800&P2=404&P3=2&P4=O1upisdCsQ0OYgoF6FjRm8wkW8cF7Jrv1yc4jZzSGt2lFunR4nh9Of4r1ydTD%2fmBGBk0QcXFERuHqUQsIfXK0w%3d%3d",
         "size_in_bytes": 264476496,
         "Sha1": "EhWLxV20j9T/5lRZnpMkjHeLPkw=",
         "Sha256": "c41ce701af97721bbc3f1519042dbe6815e38c2bcbdb15fca0727b251c179335",
