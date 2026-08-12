@@ -92,7 +92,7 @@ bd0c3179184cb95ce35900c77a230ee05d8ef0f943b97e14d5561c7f0d31a68c  MicrosoftEdge_
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `153.0.4213.0` | 170.56 MB | `66fca80645b330c1...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d3b01e74-929e-4fd2-9df0-1e0657a9a593?P1=1787092459&P2=404&P3=2&P4=LPzxJRkjRMtHzSYj8XUkmeJ%2b1qSVJ%2bfbh9WOkgplLpmgh7KsPzUTin8QjIsEvMEdu7NJxDcU9CspYGH3s7HX4g%3d%3d) |
+| **x86** | `153.0.4214.0` | 172.6 MB | `c02f7d1a148f1889...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0d013029-e398-4832-93ef-1d27f5714fce?P1=1787154780&P2=404&P3=2&P4=WHjBO7xp1iAIxutKB8ryEvDo9mQ0sRytVYeXciRA9dkVoDEXAAdSQEr9nCIWPdttVf1G7X4RBk7zkgl7DmiejQ%3d%3d) |
 | **x64** | `153.0.4214.0` | 235.28 MB | `414b85204932323d...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6768be07-11f4-4dc8-a9ff-f70bf9b38e9e?P1=1787148986&P2=404&P3=2&P4=iYvW62LUqb3hdzmQzCGWeDDa%2bqIlnD29E7H5WM1H8RFofFul2mUCQl3IzMxVTjgRAWQIOALkFGPo80SL9LjOYA%3d%3d) |
 | **ARM64** | `153.0.4214.0` | 239.79 MB | `6377e1345e3e36f1...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d8e2c7f0-4d07-4802-8d53-1ef7cf720027?P1=1787148986&P2=404&P3=2&P4=SekyB8zDwPRxGVjBEdnXgZ9qz5Y9YVJx3ThXPHhqJmJfNq50qhMsLBjl3C18dV8T9zevlJFPy%2bJ8oxRN6lbWmg%3d%3d) |
 
@@ -100,7 +100,7 @@ bd0c3179184cb95ce35900c77a230ee05d8ef0f943b97e14d5561c7f0d31a68c  MicrosoftEdge_
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-66fca80645b330c11f6ef018933aab2dc4d578461d34d2de5bb61de1990936fd  MicrosoftEdge_X86_153.0.4213.0.exe
+c02f7d1a148f18891b88a46b5bb862a204e5c3499769c13a74f8d2923029cdf4  MicrosoftEdge_X86_153.0.4214.0.exe
 414b85204932323d61baa331a5cb82d9888e8a251fe4391cf2725be006c68b98  MicrosoftEdge_X64_153.0.4214.0.exe
 6377e1345e3e36f19e84e08b4445f8e5b61258a4bfb0d9c1d73ffd210864c57e  MicrosoftEdge_ARM64_153.0.4214.0.exe
 ```
