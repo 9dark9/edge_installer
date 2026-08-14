@@ -17,7 +17,7 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
 | **x86** | `151.0.4129.86` | 173.12 MB | `676f0f59f1173fc5...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/368cf997-e81c-458f-9205-e5082e422566?P1=1787275186&P2=404&P3=2&P4=QDdL%2fWVAvn2yg%2bo%2bcJZGkF3XIHsGTeQWck5Uz0QhfjnZSAB0ucnCEOQudQhHXGK%2fOyVU1UM45GRGGPl%2bybk9mQ%3d%3d) |
-| **x64** | `151.0.4129.78` | 194.15 MB | `951ef43d485feba7...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ba032b37-de39-4318-9379-3c1b4135718e?P1=1786982000&P2=404&P3=2&P4=P5b2l%2blCGp0KAp6JrFU%2bQEjdF2TlW7dmoMqMUbL0sDThQKmx1hH2OGeCltKBr7AXIpW29rVi3jASunfu1R3JdQ%3d%3d) |
+| **x64** | `151.0.4129.86` | 196.97 MB | `4cd037adc42aff89...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9b2486f5-3b4d-4573-99c0-212635609f87?P1=1787284808&P2=404&P3=2&P4=Fp4HdbGZZM2kd61%2fmn4dt3OM6WgR%2b3A7jwg3Dg7qJUvYcZJ8pM7tAgmTENWw%2b95E%2bUL9Vt2LpYUVfEQknsB%2bbw%3d%3d) |
 | **ARM64** | `151.0.4129.86` | 201.17 MB | `8f47cc209c71b3d8...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6a892fb3-1e90-42e2-a917-a31bda7493de?P1=1787275187&P2=404&P3=2&P4=W5kHE5GScdZ%2f8QDAgBXb3aKej%2bS3u3QoxELp8mVYBoriaRXfh06ovnUgDHbWe%2brAFAg65DrR3HaYSZ%2f0Pn%2fGIA%3d%3d) |
 
 <details>
@@ -25,7 +25,7 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 
 ```
 676f0f59f1173fc512495ae728b00a3ec68f2dcaf671d2eb3d2301b9fb73f3fc  MicrosoftEdge_X86_151.0.4129.86.exe
-951ef43d485feba7b84d4a241a5bb9d6bfcd0f70baf017dce1b59ab6e27f2cd8  MicrosoftEdge_X64_151.0.4129.78.exe
+4cd037adc42aff89a1f16326250fddf10698aa1a24e951747cebc8f76f1ea70b  MicrosoftEdge_X64_151.0.4129.86.exe
 8f47cc209c71b3d85a061bb672eec4c6b932e0c6e6d3739f88770534077dc05e  MicrosoftEdge_ARM64_151.0.4129.86.exe
 ```
 
