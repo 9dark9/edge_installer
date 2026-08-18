@@ -56,7 +56,7 @@ f8afee3f6cd12911366af7605b5c0197125df050a175602fd3ae7f29054c6779  MicrosoftEdge_
 |--------------|---------|------|---------|----------|
 | **x86** | `152.0.4191.19` | 173.94 MB | `ff4feefe135f6d05...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6cf8630c-638f-4f09-a6c0-c5ad46d68f70?P1=1787350502&P2=404&P3=2&P4=D8tt%2f5cFMIguD9GaFIVCiJ7RShKrHH1BvgUzo0z%2bDxNMfRD1TbgRRVLNkUIJ4pQulr83YAm0hNs921X%2bvSle9w%3d%3d) |
 | **x64** | `152.0.4191.19` | 237.01 MB | `9202adb6feb92b9c...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fc7b751e-574c-4751-ad5c-551252bbe4c4?P1=1787350503&P2=404&P3=2&P4=Ajm2P9XsMvK%2bJP%2fXqIvX3y9x00VOzzqvs2DTKr7tJMsAOf3pZJEV%2bREv%2bizRQyYsXJJ7whqqLnjrnP1ZZXPZjQ%3d%3d) |
-| **ARM64** | `152.0.4191.19` | 241.45 MB | `0fb30bdea0b00b12...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ba195f5b-b351-4e2a-9257-8d58034e4fa1?P1=1787350504&P2=404&P3=2&P4=aAOGUDPBVIzGNLSEfqWnbs4k32Ljr84T741%2f9%2bhp4k8xYmiz6Q%2bo%2f%2bWCS44pCcYXwpssl6keyyPPLhCwIzoIUA%3d%3d) |
+| **ARM64** | `152.0.4191.35` | 245.38 MB | `4efbc7dbea41c8f6...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e6e2ab75-b64b-4b54-8bce-a937da2cdcc9?P1=1787678414&P2=404&P3=2&P4=QPySUEoycvWzr3qmldGEVeXhKZJ19zKShl%2b%2f4lwRZjA8Je%2fmpevajkdr4yDxYawBT48%2fk6rFSwkam59%2brMvUag%3d%3d) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
@@ -64,7 +64,7 @@ f8afee3f6cd12911366af7605b5c0197125df050a175602fd3ae7f29054c6779  MicrosoftEdge_
 ```
 ff4feefe135f6d05dbd6dd04e8903ce4a2a28c94c625e74e88fa6899b3e3afc1  MicrosoftEdge_X86_152.0.4191.19.exe
 9202adb6feb92b9c31131d2cf45c1d9b9ce9962d3f0231f5204e5eff70ed3a7f  MicrosoftEdge_X64_152.0.4191.19.exe
-0fb30bdea0b00b1266cac559978138e98c4a9c10393297dacda0f4430649274f  MicrosoftEdge_ARM64_152.0.4191.19.exe
+4efbc7dbea41c8f6471d73d708dd2316636a116a3b7475b133b3e52428e7d395  MicrosoftEdge_ARM64_152.0.4191.35.exe
 ```
 
 </details>
