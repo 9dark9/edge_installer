@@ -92,7 +92,7 @@ aa64473bc067706c9389a741a80656b86381e3c0a20fe0c8b22c3505f9cd0e5b  MicrosoftEdge_
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `153.0.4229.0` | 173.02 MB | `aa34c96ac89dd2c8...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1b6e9fe7-be47-4955-b15f-c185b60ea337?P1=1787786197&P2=404&P3=2&P4=Guu2GcDumdf%2bcZTO47BMYWwjMZsDeR2ZXjU1fHY6U0%2bvT%2fWzkhYvu2%2fXWTAXwyF6FyiF%2fpkxTQm4%2bjNAXaUM%2bg%3d%3d) |
+| **x86** | `153.0.4230.0` | 173.07 MB | `5af81433ea81dfd2...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dd863407-10d0-41fc-90cd-f806fd9a42ee?P1=1787840918&P2=404&P3=2&P4=jBicj2G2lvaFWcjsw7Gl1TthbaZIcIrpoiAQgjVjTfPTx2oI7nVJyefkp%2bBK3nCuWLVnmKxET%2fxAq4IeeeiFDw%3d%3d) |
 | **x64** | `153.0.4230.0` | 238.24 MB | `02221bd13f312183...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/07805788-c9c5-49da-8033-199d3ae7da52?P1=1787837981&P2=404&P3=2&P4=EANNvP7GzjM0nc%2boHxkeiw4wPpeUCmSsHjhXn7SD4gtUS%2bH3E%2b%2bBafRqJ%2bCEQx%2fk9RsU49gYYKP30fFPAIsUuQ%3d%3d) |
 | **ARM64** | `153.0.4230.0` | 242.56 MB | `de49ea4e2542ec1d...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f758b01a-ed7c-43a2-9475-3d928b1ca20b?P1=1787837982&P2=404&P3=2&P4=SgLGQAteoYQnvCjcVMJt%2bwcheHRs7LCDQGgJk2qsaQGyBBzmWU6DD%2fPVn%2fGeKu%2ft4PSN3a2Qo1mcON5hQop3Jg%3d%3d) |
 
@@ -100,7 +100,7 @@ aa64473bc067706c9389a741a80656b86381e3c0a20fe0c8b22c3505f9cd0e5b  MicrosoftEdge_
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-aa34c96ac89dd2c836bd38863c2622fa0c7ab6e442d3692972fbe1ec1e2d74b8  MicrosoftEdge_X86_153.0.4229.0.exe
+5af81433ea81dfd2e233211e6504e298a30f1c711c1a7172d613c47925916cb5  MicrosoftEdge_X86_153.0.4230.0.exe
 02221bd13f3121834c918aebd0ae783bc81a3b8efc1575e57f8273eca4049515  MicrosoftEdge_X64_153.0.4230.0.exe
 de49ea4e2542ec1d862e9abb19d45493c70ed6192d59f1ca8d1f25a885ccaff9  MicrosoftEdge_ARM64_153.0.4230.0.exe
 ```
