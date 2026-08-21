@@ -56,7 +56,7 @@ fa0f73942d8146618c7ae4ae5360d5801f2999a1dc23e438dba940d10342f0f9  MicrosoftEdge_
 |--------------|---------|------|---------|----------|
 | **x86** | `152.0.4191.35` | 174.77 MB | `4772df87a7925a71...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/97a47a37-ea3b-46e1-b8c6-118aed9a9c1d?P1=1787682426&P2=404&P3=2&P4=DeHj%2bLCs8OEh9VwuwAEGB13TEtgek%2bMG%2fvJ2lvpV1VtWU5ixoNeqGL%2boD%2f1qrojcm1QgSFteCNPSwvXzf6wQ%2fA%3d%3d) |
 | **x64** | `152.0.4191.35` | 241.39 MB | `bd47aaef394b4ad8...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/85f342af-3a5d-4b41-86fd-08df2a6abe1d?P1=1787682426&P2=404&P3=2&P4=Z9bDUApG679Ncovovk4P6gRsUH3qbaDposfrM2yC0ggN3xkrgBl5lygmr6QXTqeXsNmWxHdTyyi7L2a8opd1SA%3d%3d) |
-| **ARM64** | `152.0.4191.35` | 245.38 MB | `4efbc7dbea41c8f6...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e6e2ab75-b64b-4b54-8bce-a937da2cdcc9?P1=1787678414&P2=404&P3=2&P4=QPySUEoycvWzr3qmldGEVeXhKZJ19zKShl%2b%2f4lwRZjA8Je%2fmpevajkdr4yDxYawBT48%2fk6rFSwkam59%2brMvUag%3d%3d) |
+| **ARM64** | `152.0.4191.41` | 245.6 MB | `fc94b962c2eab489...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2e3bbdee-2bcf-4fb4-85ad-9825fb95d35f?P1=1787941583&P2=404&P3=2&P4=Dqw5Qb1tkrMHBW%2fJXJ58bymXXzeUkCGDgLATRHvk4f%2fEfsvwMCGE%2fIco36kKhIIHDU2daLqxErnQCOXushl5Sg%3d%3d) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
@@ -64,7 +64,7 @@ fa0f73942d8146618c7ae4ae5360d5801f2999a1dc23e438dba940d10342f0f9  MicrosoftEdge_
 ```
 4772df87a7925a71386005cbfa3795188b53f9b90ca3ebdc20823dfb6f2d5be1  MicrosoftEdge_X86_152.0.4191.35.exe
 bd47aaef394b4ad8c5963866302c2df1899e3e3eeb1624a1606c0ecfc65f4a5e  MicrosoftEdge_X64_152.0.4191.35.exe
-4efbc7dbea41c8f6471d73d708dd2316636a116a3b7475b133b3e52428e7d395  MicrosoftEdge_ARM64_152.0.4191.35.exe
+fc94b962c2eab48998eb07b5044c39ec226278943f706c5fe09bd719920196d7  MicrosoftEdge_ARM64_152.0.4191.41.exe
 ```
 
 </details>
