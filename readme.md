@@ -92,7 +92,7 @@ c2ec8082190c9513eb0212121f99fce504da09d73b1168145e7004d83a3e06cb  MicrosoftEdge_
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `154.0.4241.0` | 172.91 MB | `49e670f80bdf9946...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3dd27b9e-df99-4db6-9f82-7b6607c299c1?P1=1788403580&P2=404&P3=2&P4=gc1k9ALcbGEJbRKi7AUT8Esq9otw0qCjL2B%2bHfRTLiQ27r7pfbjEt0Nwqk8uL83EA08lEKRXwrflpfsTIng47w%3d%3d) |
+| **x86** | `154.0.4242.0` | 173.05 MB | `eaa54711a8dda125...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a083fa76-9024-4fc3-ac38-4f0ce1c625ad?P1=1788442106&P2=404&P3=2&P4=FRkSj26zGr3xblvq7Dp4YsjQzJ9JbrQSGkJL5BC%2fbnBlQ8a4SI2aRlxL%2b6zXmPiBgQFs1BmjHgeTtWDlkaaK3g%3d%3d) |
 | **x64** | `154.0.4241.0` | 236.48 MB | `0cbae7bc452a0ab9...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e6970cf5-7e94-42c9-9e3a-5d64d5843296?P1=1788403581&P2=404&P3=2&P4=GtX6ZjxKeA1AxIz5I9wz%2bTO7cPOKGYLvM2YCdBoyR%2baU4GhnGbXaDzacgwOmNc3yGhrQDQO1kARJZwIptYhCrg%3d%3d) |
 | **ARM64** | `154.0.4241.0` | 240.77 MB | `fad29ebb4721b023...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4a03f606-9898-4d95-86df-61073422c6e9?P1=1788403581&P2=404&P3=2&P4=hgGWHq3b%2fPFGYip%2b24YBqo9j4U0I278P3MLXgYt9OeYOI5TifQ%2bMYCkoCgXLSzhulv627jF1Qb85vgMqaZnHIg%3d%3d) |
 
@@ -100,7 +100,7 @@ c2ec8082190c9513eb0212121f99fce504da09d73b1168145e7004d83a3e06cb  MicrosoftEdge_
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-49e670f80bdf9946136588120dd2d5795f000059a7fcdaa4ac311fff6851c3e3  MicrosoftEdge_X86_154.0.4241.0.exe
+eaa54711a8dda1256aa9f4d8379158c2ad2ae92aedca9fcf29ec388775d83ada  MicrosoftEdge_X86_154.0.4242.0.exe
 0cbae7bc452a0ab93bd39ef5707c97e732636469a61bc366dbde31ddc239afe0  MicrosoftEdge_X64_154.0.4241.0.exe
 fad29ebb4721b023d68bb5978cde35b61a51c1ac766f5a6b3928800e5fa1bbec  MicrosoftEdge_ARM64_154.0.4241.0.exe
 ```
