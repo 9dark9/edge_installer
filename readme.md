@@ -16,16 +16,16 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `152.0.4191.53` | 175.1 MB | `b033e74a4baa11cd...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/188aa873-97e9-4d6d-b944-4c06bbf6df72?P1=1788865528&P2=404&P3=2&P4=K1RyKOuA7emzfcQebt9PWEXeGH%2f6gOC%2flrPi1oe7tGe4H%2fdMxXiABPWW87v%2bq1rbUp2s9D4LPntbaOKpMdBmGw%3d%3d) |
-| **x64** | `152.0.4191.53` | 239.88 MB | `65df232ac99059ac...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4e34eec8-a0b7-4300-8b81-27ac4076cd47?P1=1788865528&P2=404&P3=2&P4=CLkXPZSPUVlAVfXKKH1MT6ZMVc5EawtkwaVvVGHZxw8q4%2b%2f%2f1tzfzV0abP59bd2NpVTsKsMnvDeji04avvffVQ%3d%3d) |
+| **x86** | `152.0.4191.62` | 175.14 MB | `3da142b11c7daec8...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/91158e2e-73d1-46bc-873f-1e05c4e2878d?P1=1788989360&P2=404&P3=2&P4=IExi2McaIRxW9VzBe5WLZJOOTpZ4ra%2brzPuk6VbTtBNC9f9LemkxE6EUQO3uXsFKvSevr2%2fTTaCT9z%2f5uBTg5Q%3d%3d) |
+| **x64** | `152.0.4191.62` | 239.95 MB | `6da7a83dcf5e065e...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/37b3c6c6-3c68-47c4-88e8-21906be1744a?P1=1788989361&P2=404&P3=2&P4=idlaRsPSfrkltS9nWRCB9UQL9OrDyeoMAhWAqldVAcZOhJOKOc2bnxB14ggEBeIP%2fEECD9rvmXdcYezJhDWXbQ%3d%3d) |
 | **ARM64** | `152.0.4191.62` | 244.36 MB | `d474d8c22168234b...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3eb149c8-1e3d-4980-953a-51fc3d309776?P1=1788977934&P2=404&P3=2&P4=GhgxTQtiL3rRZJwvVW32Je7Y2rnhALlZo5cSpmQTJzcCLOsPv8cU0IP%2f%2fu4%2bfX2GU6bqsXls0Otf3Oqhhbusmw%3d%3d) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-b033e74a4baa11cdbfe867caffa076bff98b02b9a4360e7614cec52e6feaaf80  MicrosoftEdge_X86_152.0.4191.53.exe
-65df232ac99059ac4c362363ac7bc1d828eaf05f099a1c5e70161669d9a46e02  MicrosoftEdge_X64_152.0.4191.53.exe
+3da142b11c7daec822a5f8273f3df8b1bbcd8116523711763d1203ae1a92b941  MicrosoftEdge_X86_152.0.4191.62.exe
+6da7a83dcf5e065e5157c477b3ac581384d3f3ba937a566965ff9767ed1abb59  MicrosoftEdge_X64_152.0.4191.62.exe
 d474d8c22168234baddd3cbcab927fcd3af1197a3de7ef7ac612f5715eef69e8  MicrosoftEdge_ARM64_152.0.4191.62.exe
 ```
 
