@@ -16,7 +16,7 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `152.0.4191.66` | 175.3 MB | `5ece64452b081607...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dce4d6a7-7ddf-47c7-9341-646192808b57?P1=1789520217&P2=404&P3=2&P4=g8O8pCcaO1Fl1kkFgOIJLnu0G4y%2fUune8LSt9ukhbxHnKBidAm%2brnhySpedIZ2pcm3Or%2fH8E9DKvEVOQc1gRow%3d%3d) |
+| **x86** | `153.0.4234.32` | 173.96 MB | `f17394c4c28f3d14...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8f4ffc9b-7858-424f-a3dd-a614a0d833b7?P1=1789709439&P2=404&P3=2&P4=UoUBBKsWP4joVp5eQp9pprsdB40sXHNkupGanJYZ6ONvLNh9zfYNxNspN31xpN6yE75vjSfzmBdyAY8HpbHG%2fA%3d%3d) |
 | **x64** | `153.0.4234.32` | 196.91 MB | `fc739942c7e66954...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/70dfa04a-cf2a-4d36-a271-2a4f8a28d987?P1=1789692285&P2=404&P3=2&P4=HGbJM%2bPKoqIdUJ7WWv3euB7emKcylpYVIteP6gIPFG4rKuZQPgwFMo3Ep9LsnvbEPz7LTcfwC8Mup1IFecGp6A%3d%3d) |
 | **ARM64** | `153.0.4234.32` | 200.43 MB | `1dc4be73b181e4aa...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3fc29cde-0bdf-484b-a548-200c9ed02a25?P1=1789692285&P2=404&P3=2&P4=NOcmUmt8%2bM0A6Ln%2bGFr%2fmkelHIsvFo3I%2bK12tlI9%2fJDOef2V0AWZcVghtknfzOnYE2Js1%2b3jE2bZDkaC2KEuew%3d%3d) |
 
@@ -24,7 +24,7 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-5ece64452b0816075d5eef60dbaeebce7cfe3a4d74da0e5cc6d9db436523c067  MicrosoftEdge_X86_152.0.4191.66.exe
+f17394c4c28f3d141d1ffabfc7cc6be51b07d6856d58f372927ef842534702c3  MicrosoftEdge_X86_153.0.4234.32.exe
 fc739942c7e669544c415d846727fff56cc0739aaf54b839e2637885fdebdcde  MicrosoftEdge_X64_153.0.4234.32.exe
 1dc4be73b181e4aac7bbdff8745e11731a8dac79b84118f3bbf1a057b9cb5506  MicrosoftEdge_ARM64_153.0.4234.32.exe
 ```
