@@ -17,7 +17,7 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
 | **x86** | `155.0.4283.45` | 175.44 MB | `b890aae3f4e58dc5...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2de22336-e557-477d-83ab-28ab0124451c?P1=1792455537&P2=404&P3=2&P4=VGxQgqtgsJSyOg%2fnFwi2xnq6jE%2b%2b9yeTAp%2fR4dGkXoHjpgQOytV5Btbu8dIg2EyMTvpyMT3AwPg%2bWB9FN%2fo17w%3d%3d) |
-| **x64** | `155.0.4283.45` | 198.05 MB | `8b6bbd9e7c6d1574...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/db6b5616-d868-437c-8ebe-096082316a2f?P1=1792114032&P2=404&P3=2&P4=IfCI1py0UJV3mOH1%2bh3pAdZJrny9pOzMPsLhtJycV6Bn1zc64%2bGDe4WZdhhtAWE3lpummRUrcfjQJisWxS4BPA%3d%3d) |
+| **x64** | `155.0.4283.45` | 198.05 MB | `8b6bbd9e7c6d1574...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/db6b5616-d868-437c-8ebe-096082316a2f?P1=1792480027&P2=404&P3=2&P4=d2fFQjeapwLobHfeehFgxg6Sw8hn52unn5IcshCyXoEWau2xJVJ3bd5TpcszyJiz1d4nILjoxekfaK2hwe9BwA%3d%3d) |
 | **ARM64** | `155.0.4283.45` | 201.23 MB | `f8849f254cdc9732...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c641b5c2-5c59-4078-aed1-3e4d1879597a?P1=1792455539&P2=404&P3=2&P4=I33F0kD2n0rKu0yYOafQfs%2friiPE4O3qcOcRLbWDiyNRJExIIWdu6%2fWH4akitWlb2Onb7yH3LkQxZj%2bYXsbsVA%3d%3d) |
 
 <details>
